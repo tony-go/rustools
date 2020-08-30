@@ -1,5 +1,5 @@
 [package]
-name = "rustodo"
+name = "rustools"
 version = "0.1.0"
 authors = ["tony-go <gorez.tony@gmail.com>"]
 edition = "2018"
